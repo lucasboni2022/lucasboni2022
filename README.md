@@ -55,7 +55,7 @@ Acredito que programação é mais do que lógica — é também criatividade, v
 Sistema de gestão para fábricas de pré-moldados.  
 **Tecnologias:** Java, PostgreSQL, React (HTML, CSS, TypeScript)  
 
-![PremolExpert GIF](https://media.giphy.com/media/3o7TKr45Zkz5xB9r5y/giphy.gif) <!-- você pode trocar pelo GIF real do seu projeto -->
+![PremolExpert GIF](https://media.giphy.com/media/3o7TKr45Zkz5xB9r5y/giphy.gif) <!-- substitua pelo GIF real do projeto -->
 
 ### ⚙️ Solução de Problemas Hidráulicos
 Aplicação prática voltada à engenharia.  
