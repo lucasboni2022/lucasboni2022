@@ -8,9 +8,15 @@
 📚 Ajudo programadores iniciantes a desenvolverem suas primeiras aplicações  
 🚀 Apaixonado por tecnologia, música e compartilhar conhecimento
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bonifacio-41b71b308/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasboniprogramador?igsh=ZXFkbm55eHpxMmk3&utm_source=qr)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BoniSolucoesemTi)
+<a href="https://www.linkedin.com/in/lucas-bonifacio-41b71b308/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/lucasboniprogramador?igsh=ZXFkbm55eHpxMmk3&utm_source=qr" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.youtube.com/@BoniSolucoesemTi" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
 
 </div>
 
