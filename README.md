@@ -1,46 +1,47 @@
-# 👋 Me chamo Lucas Bonifacio
+# 👋 Olá! Me chamo Lucas Bonifácio
 
-💻 **Desenvolvedor Full Stack**  
-🌱 Foco em **Java**, **Node.js** + **React**, **HTML**, **CSS**, **JavaScript** e **PostgreSQL**  
-🚀 Apaixonado por tecnologia, música e aprendizado constante.
+💻 **Desenvolvedor Full Stack** apaixonado por transformar ideias em soluções reais.  
+Atuo criando aplicações completas e funcionais, do backend ao frontend.  
 
----
+🚀 **Atualmente estou trabalhando na MTI** — empresa pública mato-grossense de tecnologia, unindo inovação, automação e soluções práticas para negócios.  
 
-### 🧰 Tecnologias que uso
-<div align="center">
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-
-#### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-
-#### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-#### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
-
-</div>
+Gosto de desafios, de aprender algo novo todos os dias e de ver o código se transformar em resultados práticos.  
+Acredito que programação é mais do que lógica — é também criatividade, visão e impacto.
 
 ---
 
-### 📈 Estatísticas do GitHub
-<div align="center">
+### 🧠 Tecnologias que mais uso
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasboni2022&show_icons=true&theme=tokyonight)
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-</div>
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### ✉️ Contato
-📧 **lucas.bonifacio@email.com**  
-🌐 [LinkedIn](https://linkedin.com/in/seuusuario) | [Instagram](https://instagram.com/seuusuario)
+### 🌟 Estatísticas do GitHub
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasboni2022&show_icons=true&theme=tokyonight)
+
+---
+
+### 📌 Projetos em destaque
+- 🏗️ **[PremolExpert](https://github.com/lucasboni2022/PremolExpert)** — Sistema de gestão para fábricas de pré-moldados  
+- ⚙️ **[Solução de Problemas Hidráulicos](https://github.com/lucasboni2022/Solucao-Problemas-Hidraulicos)** — Aplicação prática voltada à engenharia
+
+---
+
+### 🌐 Contato
+- 📧 lucasboni2022@gmail.com  
+- 📸 [Instagram](https://www.instagram.com/lucasboniprogramador?igsh=ZXFkbm55eHpxMmk3&utm_source=qr)
+
+---
+
+✨ *“Código limpo é uma forma de arte. Criar soluções é minha forma de deixar o mundo um pouco mais eficiente.”*
