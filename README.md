@@ -13,44 +13,64 @@ Acredito que programação é mais do que lógica — é também criatividade, v
 
 ## 🧰 Tecnologias
 
-### 🔹 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<div align="center">
 
-### 🔹 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<table>
+<tr>
+<th>Backend</th>
+<th>Frontend</th>
+</tr>
+<tr>
+<td align="center">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<br>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)<br>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+</td>
+<td align="center">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🌟 Estatísticas do GitHub
+<div align="center">
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasboni2022&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasboni2022&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🏗️ [PremolExpert](https://github.com/lucasboni2022/PremolExpert)
+### 🏗️ PremolExpert
 Sistema de gestão para fábricas de pré-moldados.  
 **Tecnologias:** Java, PostgreSQL, React (HTML, CSS, TypeScript)  
 
-### ⚙️ [Solução de Problemas Hidráulicos](https://github.com/lucasboni2022/Solucao-Problemas-Hidraulicos)
-Aplicação prática voltada à engenharia.  
-**Tecnologias:** HTML, CSS, JavaScript
+![PremolExpert GIF](https://media.giphy.com/media/3o7TKr45Zkz5xB9r5y/giphy.gif) <!-- você pode trocar pelo GIF real do seu projeto -->
 
-> 💡 **Dica:** Você pode fixar esses projetos no GitHub para que apareçam no topo do seu perfil, aumentando a visibilidade.
+### ⚙️ Solução de Problemas Hidráulicos
+Aplicação prática voltada à engenharia.  
+**Tecnologias:** HTML, CSS, JavaScript  
+
+![Solução Hidráulica GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) <!-- substitua pelo GIF real -->
+
+> 💡 **Dica:** Fixe esses projetos no GitHub para que apareçam no topo do seu perfil, aumentando a visibilidade.
 
 ---
 
 ## 🌐 Contato
-- 📧 lucasboni2022@gmail.com  
-- 📸 [Instagram](https://www.instagram.com/lucasboniprogramador?igsh=ZXFkbm55eHpxMmk3&utm_source=qr)
+<div align="center">
+📧 lucasboni2022@gmail.com  |  📸 [Instagram](https://www.instagram.com/lucasboniprogramador?igsh=ZXFkbm55eHpxMmk3&utm_source=qr)
+</div>
 
 ---
 
