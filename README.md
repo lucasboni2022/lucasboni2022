@@ -4,7 +4,7 @@
   
 ### 💻 Desenvolvedor Full Stack | 👨‍🏫 Professor de Programação
 
-🌱 Especializado em **Java**, **Node.js**, **React** e **TypeScript**  
+🌱 Especializado em **Java**, **Node.js**, **React**  
 📚 Ajudo programadores iniciantes a desenvolverem suas primeiras aplicações  
 🚀 Apaixonado por tecnologia, música e compartilhar conhecimento
 
