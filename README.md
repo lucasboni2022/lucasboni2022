@@ -89,16 +89,6 @@
 
 </div>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasboni2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasboni2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ---
 
@@ -109,7 +99,8 @@ Tenho paixão por ensinar e ajudar iniciantes a entrarem no mundo da programaç�
 ### 🎯 Como posso te ajudar:
 
 - **Primeiros passos em programação** - Do zero ao primeiro projeto
-- **Java & Spring Boot** - Desenvolvimento backend estruturado
+- **Java & Spring Boot** - Conceitos fundamentais de forma simplificada para entender a sintaxe e paradigma de orientação a objeto
+- **Node.js** - Desenvolvimento backend estruturado em paradigma funcional 
 - **React & TypeScript** - Interfaces modernas e escaláveis
 - **Arquitetura de software** - Boas práticas e padrões de projeto
 - **Carreira em tecnologia** - Dicas para conseguir o primeiro emprego
