@@ -94,10 +94,9 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasboni2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasboni2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
