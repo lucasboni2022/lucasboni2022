@@ -98,7 +98,7 @@ Tenho paixão por ensinar e ajudar iniciantes a entrarem no mundo da programaç�
 ### 🎯 Como posso te ajudar:
 
 - **Primeiros passos em programação** - Do zero ao primeiro projeto
-- **Lógica de programação e algoritimo** - Conceitos fundamentais
+- **Lógica de programação e algoritmo** - Conceitos fundamentais
 - **JavaScript, TypeScript e React** - Interfaces modernas e escaláveis
 - **Node.js** - Desenvolvimento backend estruturado em paradigma funcional 
 - **Java & Spring Boot** - Conceitos fundamentais de forma simplificada para entender a sintaxe e paradigma de orientação a objeto
