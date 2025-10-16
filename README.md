@@ -83,7 +83,7 @@
 
 | 📦 Projeto | 📝 Descrição | 🔗 Link |
 |:-----------|:------------|:--------|
-| **Sistema de Gestão de Pré-Moldados** | Sistema web completo com React + TypeScript e Java Spring Boot para gerenciamento de produção e estoque | [Ver Projeto →](https://github.com/lucasboni2022/PremolExpert) |
+| **Sistema de Gestão de Pré-Moldados** | Sistema web com React + TypeScript e Java Spring Boot para gerenciamento de produção e estoque | [Ver Projeto →](https://github.com/lucasboni2022/PremolExpert) |
 | **App de Finanças Pessoais** | Aplicação de controle financeiro com Node.js, PostgreSQL e dashboards em tempo real | [Ver Projeto →](https://github.com/seuusuario/app-financas) |
 | **Portfolio Pessoal** | Site desenvolvido em React + TypeScript destacando projetos de programação e música | [Ver Projeto →](https://github.com/seuusuario/portfolio) |
 
