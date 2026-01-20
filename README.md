@@ -84,19 +84,12 @@
 | 📦 Projeto | 📝 Descrição | 🔗 Link |
 |:-----------|:------------|:--------|
 | **Sistema de Gestão de Pré-Moldados** |Sistema web desenvolvido com React e TypeScript no frontend e Java com Spring Boot no backend, totalmente containerizado com Docker, garantindo portabilidade, padronização de ambiente e facilidade de deploy.
-
 O banco de dados PostgreSQL é executado em contêiner dedicado ou consumido como serviço em nuvem, com configuração via variáveis de ambiente, permitindo integração segura e flexível entre os serviços.
-
 O backend segue a Arquitetura em Camadas (Controller, Service, Repository, Entity, DTO, Security e Enumeration), promovendo organização, manutenibilidade e escalabilidade do código.
-
 A aplicação implementa autenticação e autorização stateless utilizando Spring Security e JWT (JSON Web Token), incluindo:
-
-Geração e validação de tokens
-
-Controle de acesso por perfil/role
-
-Criptografia de senhas com BCrypt
-
+Geração e validação de tokens;
+Controle de acesso por perfil/role;
+Criptografia de senhas com BCrypt;
 O sistema é voltado para gerenciamento de produção e controle de estoque, com comunicação entre frontend e backend via APIs REST, orquestradas por Docker Compose, facilitando a execução local e o deploy em ambientes de homologação e produção. | [Ver Projeto →](https://github.com/lucasboni2022/PremolExpert) |
 | **Cursos e Treinamentos** | Site desenvolvido em React + TypeScript destacando cursos e treinamentos de programação  | [Ver Projeto →](https://do0aodevjr.site/) |
 
