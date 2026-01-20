@@ -83,7 +83,7 @@
 
 | 📦 Projeto | 📝 Descrição | 🔗 Link |
 |:-----------|:------------|:--------|
-| **Sistema de Gestão de Pré-Moldados** | Sistema web com React + TypeScript no frontend e Java Spring Boot no backend, seguindo a arquitetura de software: Arquitetura em Camadas (controller, service, repository, entity, dto, security, enumeration) para gerenciamento de produção e estoque. | [Ver Projeto →](https://github.com/lucasboni2022/PremolExpert) |
+| **Sistema de Gestão de Pré-Moldados** | Sistema web com React + TypeScript no frontend e Java Spring Boot no backend com banco de dados PostgreSQL na nuvem, seguindo a arquitetura de software: Arquitetura em Camadas (controller, service, repository, entity, dto, security, enumeration) para gerenciamento de produção e estoque. | [Ver Projeto →](https://github.com/lucasboni2022/PremolExpert) |
 | **Cursos e Treinamentos** | Site desenvolvido em React + TypeScript destacando cursos e treinamentos de programação  | [Ver Projeto →](https://do0aodevjr.site/) |
 
 </div>
