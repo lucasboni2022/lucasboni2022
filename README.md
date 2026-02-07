@@ -5,7 +5,6 @@
 ### 💻 Desenvolvedor Full Stack 
 
 🌱 Especializado em **Java**, **Node.js**, **React**  
-📚 Ajudo programadores iniciantes a desenvolverem suas primeiras aplicações  
 🚀 Apaixonado por tecnologia, música e compartilhar conhecimento
 
 <a href="https://www.linkedin.com/in/lucas-bonifacio-41b71b308/" target="_blank">
@@ -96,7 +95,7 @@ Tenho paixão por ensinar e ajudar iniciantes a entrarem no mundo da programaç�
 
 ### 🎯 Como posso te ajudar:
 
-- **Primeiros passos em programação** - Do zero ao primeiro projeto
+- **Primeiros passos em programação** -Faça um treinamento nos finais de semana: Do zero ao primeiro projeto 
 - **Lógica de programação e algoritmo** - Conceitos fundamentais
 - **JavaScript, TypeScript e React** - Interfaces modernas e escaláveis
 - **Node.js** - Desenvolvimento backend estruturado em paradigma funcional 
@@ -107,7 +106,7 @@ Tenho paixão por ensinar e ajudar iniciantes a entrarem no mundo da programaç�
 ### 📖 Conteúdos que crio:
 
 ```javascript
-const mentoria = {
+const = {
   topicos: [
     "Lógica de Programação",
     "Desenvolvimento Full Stack",
@@ -120,8 +119,6 @@ const mentoria = {
 };
 ```
 
-💬 **Quer aprender programação?** Entre em contato comigo!
-
 ---
 
 ## 💡 Sobre Mim
@@ -129,7 +126,7 @@ const mentoria = {
 ```typescript
 const lucas = {
   role: "Full Stack Developer & Mentor",
-  mission: "Desenvolver soluções eficientes e ajudar novos programadores",
+  mission: "Desenvolver soluções eficientes",
   code: ["Java", "TypeScript", "JavaScript"],
   technologies: {
     frontend: ["React", "HTML5", "CSS3"],
@@ -137,7 +134,7 @@ const lucas = {
     databases: ["PostgreSQL", "MySQL"],
     tools: ["Git", "Docker", "VS Code"]
   },
-  currentFocus: "Construindo sistemas escaláveis e mentorando iniciantes",
+  currentFocus: "Construindo sistemas escaláveis",
   teaching: ["Lógica de Programação", "Full Stack", "Arquitetura"],
   hobbies: ["Música 🎸", "Ensinar 👨‍🏫", "Café ☕"]
 };
@@ -153,8 +150,5 @@ const lucas = {
 
    Email: lucasboni2022@gmail.com
 
-💡 **Quer aprender programação ou discutir um projeto?** Mande uma mensagem!
-
-⭐ **Se gostou dos meus projetos, deixe uma estrela!** ⭐
 
 </div>
