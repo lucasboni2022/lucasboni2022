@@ -140,8 +140,6 @@ const lucas = {
 
 ### 📫 Vamos Conversar?
 
-**Estou sempre aberto a novos projetos, colaborações e ajudar quem está começando!**
-
    Email: lucasboni2022@gmail.com
 
 
