@@ -4,7 +4,7 @@
   
 ### 💻 Desenvolvedor Full Stack 
 
-🌱 Especializado em **Java**, **Node.js**, **React**  ,**Pós-graduação em Arquitetura de Software**  
+🌱 Especializado em **Java**, **Node.js**, **React**  , **Pós-graduação em Arquitetura de Software**  
 🚀 Apaixonado por tecnologia, música e compartilhar conhecimento
 
 <a href="https://www.linkedin.com/in/lucas-bonifacio-41b71b308/" target="_blank">
