@@ -83,22 +83,6 @@
 
 ---
 
-### 📖 Conteúdos que crio:
-
-```javascript
-const = {
-  topicos: [
-    "Lógica de Programação",
-    "Desenvolvimento Full Stack",
-    "Banco de Dados",
-    "Git & GitHub",
-    "Preparação para entrevistas"
-  ],
-  nivel: "Do básico ao avançado",
-  objetivo: "Formar desenvolvedores completos e confiantes"
-};
-```
-
 ---
 
 ## 💡 Sobre Mim
