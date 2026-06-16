@@ -77,7 +77,7 @@
 | 📦 Projeto | 📝 Descrição | 🔗 Link |
 |:-----------|:------------|:--------|
 | **Sistema de Gestão de Pré-Moldados** |Sistema web desenvolvido com frontend em React com TypeScript, comunicação via APIs REST, seguido do backend em Java (framework Spring Boot), utilizando banco de dados PostgreSQL hospedado em nuvem e configuração por variáveis de ambiente, permitindo integração segura e flexível entre os serviços; o backend segue a Arquitetura em Camadas (Controller, Service, Repository, Entity, DTO, Security e Enumeration), promovendo organização, manutenibilidade e escalabilidade do código; a aplicação implementa autenticação e autorização stateless com Spring Security e JWT (JSON Web Token), incluindo geração e validação de tokens, controle de acesso por perfil (role) e criptografia de senhas com BCrypt; o sistema é voltado para gerenciamento de produção e controle de estoque, com os serviços orquestrados por Docker Compose, facilitando a execução local e o deploy em ambientes de homologação e produção.| [Ver Projeto →](https://github.com/lucasboni2022/PremolExpert) 
-
+| Frete Amigo - Plataforma de Gestão Logística e Fretes | Plataforma web desenvolvida em React com JavaScript, estruturada em componentes reutilizáveis e comunicação via APIs REST, permitindo integração eficiente entre frontend e serviços externos; a aplicação possui design responsivo, gerenciamento de rotas, tratamento de requisições assíncronas e organização modular do código, garantindo melhor manutenibilidade e escalabilidade; o sistema foi projetado para digitalizar processos de cotação e gerenciamento de fretes, conectando usuários e serviços de transporte por meio de uma interface moderna, intuitiva e de fácil utilização. | Ver Projeto → |
 </div>
 
 
