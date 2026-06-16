@@ -83,20 +83,6 @@
 
 ---
 
-## 👨‍🏫 Mentoria & Ensino
-
-Tenho paixão por ensinar e ajudar iniciantes a entrarem no mundo da programação!
-
-### 🎯 Como posso te ajudar:
-
-- **Primeiros passos em programação** -Faça um treinamento nos finais de semana: Do zero ao primeiro projeto 
-- **Lógica de programação e algoritmo** - Conceitos fundamentais
-- **JavaScript, TypeScript e React** - Interfaces modernas e escaláveis
-- **Node.js** - Desenvolvimento backend estruturado em paradigma funcional 
-- **Java & Spring Boot** - Conceitos fundamentais de forma simplificada para entender a sintaxe e paradigma de orientação a objeto
-- **Arquitetura de software** - Boas práticas e padrões de projeto
-- **Carreira em tecnologia** - Dicas para conseguir o primeiro emprego
-
 ### 📖 Conteúdos que crio:
 
 ```javascript
